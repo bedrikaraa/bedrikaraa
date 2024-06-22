@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm H. B. Taha</h1>
-<h3 align="center">A passionate data scientist from Türkiye.</h3>
+<h3 align="center">I'm passionate about learning and practicing trends of data science and artificial intelligence from Türkiye.</h3>
 
 - 📫 How to reach me **karah@mef.edu.tr**
 
